@@ -1,3 +1,8 @@
+## Hey! I'm Robin Thomas. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+[![GitHub robin-thomas](https://img.shields.io/github/followers/robin-thomas?label=follow&style=social)](https://github.com/robin-thomas)
+[![Linkedin: Robin Thomas](https://img.shields.io/badge/-Robin%20Thomas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robinthomas91/)](https://www.linkedin.com/in/robinthomas91/)
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=robin-thomas&label=Profile%20views&color=0e75b6&style=flat" alt="robin-thomas" />
 </p>
