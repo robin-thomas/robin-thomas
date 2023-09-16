@@ -46,5 +46,5 @@ Here are some ideas to get you started:
 <div>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=robin-thomas&show_icons=true&theme=nightowl&count_private=true&rank_icon=github"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robin-thomas&show_icons=true&theme=nightowl&layout=compact"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=robin-thomas&theme=nightowl" />
+  <img height="180" src="https://github-readme-streak-stats-amber-phi.vercel.app/?user=robin-thomas&theme=nightowl" />
 </div>
