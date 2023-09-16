@@ -18,10 +18,10 @@
       <img src="https://img.shields.io/badge/StackOverflow-grey?style=for-the-badge&logo=stackoverflow&logoColor=orange" alt="stackoverflow" />
     </a>
     <a href="https://www.quora.com/profile/Robin-Thomas-16" target="_blank">
-      <img src="https://img.shields.io/badge/Quora-red?style=for-the-badge&logo=quora&logoColor=white" alt="quora" />
+      <img src="https://img.shields.io/badge/Quora-darkred?style=for-the-badge&logo=quora&logoColor=white" alt="quora" />
     </a>
-    <a href="https://github.com/robin-thomas" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <a href="https://medium.com/@robinthomas17">
+      <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
     </a>
   </div>
 </div>
